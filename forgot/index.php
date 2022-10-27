@@ -54,7 +54,7 @@ if($_GET[act]=='sub' && !empty($email))
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta name="robots" content="noindex,nofollow">
-<title>HRMHS - Forgot Password</title>
+<title>HRM - Forgot Password</title>
 
 <script>
 	
